@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Training Section_FR.unity
+    guid: 77dd1a337a626aa49828fc9d5324c1a2
+  - enabled: 1
+    path: Assets/FirstScene.unity
+    guid: c331f221d32abdd43921c78df3325e79
+  - enabled: 1
+    path: Assets/Scene_category_FR.unity
+    guid: 25d757a35c3d1ad44a782e04ba5761df
+  - enabled: 1
+    path: Assets/Scene_color_FR.unity
+    guid: 9e3780528ee81614cbd5782b500ce709
+  - enabled: 1
+    path: Assets/Scene_shape_FR.unity
+    guid: db43edc7b47220849bb8d0eff3606960
+  - enabled: 1
+    path: Assets/SecondScene.unity
+    guid: 95b9ca0452ce82a49b6aa52f3d4d5984
+  m_configObjects: {}
